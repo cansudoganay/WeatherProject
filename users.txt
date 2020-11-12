@@ -1,0 +1,5 @@
+cansu,what is your favorite color?,blue,what is your horoscope?,virgo,what is your favorite meal?,hamburger
+ege,where are you living?,atasehir,what is your pet's name?,ruby,who is your favorite actor?,morgan freeman
+murat,what is your favorite activity?,football,what is your favorite class?,comp416,what is your favorite animal?,dog
+oguz,what is your best friend's last name?,erdogan,where are you from?,karsiyaka,in which city you were born?,izmir
+arzu,what is your spirit animal?,lion,who is your favorite author?,kafka,where are you living?,london

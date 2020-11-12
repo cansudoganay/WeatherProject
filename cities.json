@@ -1,0 +1,22 @@
+
+[
+{"id": 745044, "name": "Istanbul", "state": "", "country": "TR", "coord": {"lon": 28.949659, "lat":
+41.01384}}
+,
+{"id": 740264, "name": "Samsun", "state": "", "country": "TR", "coord": {"lon": 36.330002, "lat":
+41.286671}}
+,
+{"id": 315201, "name": "Eskişehir", "state": "", "country": "TR", "coord": {"lon": 31.16667, "lat":
+39.666672}}
+,
+{"id": 323784, "name": "Ankara", "state": "", "country": "TR", "coord": {"lon": 32.833328, "lat":
+39.916672}}
+,
+{"id": 304919, "name": "Malatya", "state": "", "country": "TR", "coord": {"lon": 38.0, "lat": 38.5}}
+,
+{"id": 750268, "name": "Bursa", "state": "", "country": "TR", "coord": {"lon": 29.08333, "lat":
+40.166672}},
+,
+{"id": 311044, "name": "İzmir", "state": "", "country": "TR", "coord": {"lon": 27.092291, "lat":
+38.462189}}
+]
